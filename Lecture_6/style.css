@@ -1,0 +1,12 @@
+form{
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    border: solid 2px;
+}
+.content{
+    min-height: 200px;
+    background-color: rgb(170, 89, 247);
+    border: solid 2px;
+    padding: 10px;
+}
